@@ -15,6 +15,18 @@ Hệ thống xử lý dữ liệu và gợi ý sản phẩm (Recommendation) cho
 
 Dự án được thiết kế để hoạt động trên các nền tảng thương mại điện tử như **TGDD (Thế Giới Di Động)** và **AvaKids**, xử lý hàng triệu bản ghi dữ liệu khách hàng.
 
+UI các block trên website:
+<img width="868" height="737" alt="chrome_BTkrKG3KsK" src="https://github.com/user-attachments/assets/24dcdc10-d6ae-4490-b930-414377cc582d" />
+
+<img width="1258" height="617" alt="chrome_PUR7WOZg0Z" src="https://github.com/user-attachments/assets/98659ebe-32bc-4ef0-93e6-8a7186e45294" />
+
+<img width="1216" height="824" alt="chrome_gzQh3eGsUW" src="https://github.com/user-attachments/assets/3e72feef-4448-479b-bbca-2efa74c4907a" />
+
+<img width="1206" height="755" alt="OmqtgTujW5" src="https://github.com/user-attachments/assets/8ebb24b4-06f2-4eaa-8f2f-2ba987e49860" />
+
+<img width="1227" height="519" alt="KsqK9h1b5z" src="https://github.com/user-attachments/assets/7f713b73-1e05-4ce1-abe6-d0b51a989cc5" />
+
+
 ---
 
 ## ✨ Tính Năng Chính
