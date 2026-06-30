@@ -138,29 +138,7 @@ Các module tạo ra các output chính:
 | `sppt/ai_goiy_*.parquet` | productid, productname, categoryid, alike_productcode | Tới 10 sản phẩm/nhóm |
 | `productid_chuky_upsize_v1.parquet` | customer_id, productid, rank, type, formatted_date | Tới 30 sản phẩm/KH |
 
----
 
-## 🔧 Cấu Hình
-
-### Kết Nối HDFS
-```python
-from hdfs import InsecureClient
-client = InsecureClient('hdfs://172.16.5.69:8020')
-```
-
-### Kết Nối Spark
-```python
-from spark_config import spark_connect
-spark = spark_connect()
-```
-
-### API LLM
-- **Endpoint**: `gwrdinternal.tgdd.vn`
-- **Model**: MWG
-- **Max Tokens**: 512-1024
-- **Temperature**: 0.0
-
----
 
 ## 📝 Tham Số Chính
 
@@ -187,23 +165,6 @@ spark = spark_connect()
 
 ---
 
-## 👤 Tác Giả
-
-**viettu98** - Phát triển và bảo trì
-
----
-
-## 📄 Giấy Phép
-
-Tất cả mã nguồn trong repository này thuộc sở hữu của tổ chức.
-
----
-
-## 📞 Liên Hệ & Hỗ Trợ
-
-Để báo cáo lỗi hoặc yêu cầu tính năng, vui lòng tạo issue trên GitHub repository.
-
----
 
 ## 📚 Tài Liệu Tham Khảo
 
