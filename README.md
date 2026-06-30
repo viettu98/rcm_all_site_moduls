@@ -18,8 +18,6 @@ Dự án được thiết kế để hoạt động trên các nền tảng thư
 UI các block trên website:
 <img width="868" height="737" alt="chrome_BTkrKG3KsK" src="https://github.com/user-attachments/assets/24dcdc10-d6ae-4490-b930-414377cc582d" />
 
-<img width="1258" height="617" alt="chrome_PUR7WOZg0Z" src="https://github.com/user-attachments/assets/98659ebe-32bc-4ef0-93e6-8a7186e45294" />
-
 <img width="1216" height="824" alt="chrome_gzQh3eGsUW" src="https://github.com/user-attachments/assets/3e72feef-4448-479b-bbca-2efa74c4907a" />
 
 <img width="1206" height="755" alt="OmqtgTujW5" src="https://github.com/user-attachments/assets/8ebb24b4-06f2-4eaa-8f2f-2ba987e49860" />
